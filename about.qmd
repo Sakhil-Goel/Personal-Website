@@ -8,4 +8,4 @@ I am very passionate about software development, with a focus on data analysis. 
 
 I am proficient developing algorithms and data structures in many different programming languages such as Python, R, and SQL, where I apply analytical thinking to solve complex problems. Alongside my technical proficiency, I possess a deep understanding of different statistical methods and economic principles.
 
-You can find my resume at the top of this website.
+For a detailed look at my qualifications, you can find my CV at the top of this website.

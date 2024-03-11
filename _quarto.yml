@@ -10,8 +10,8 @@ website:
         text: Home
       - about.qmd
       - contact.qmd
-      - text: "CV"
       - href: Sakhil Goel - CV.pdf
+        text: "CV"
 
 format:
   html:
